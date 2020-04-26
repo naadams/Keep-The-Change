@@ -1,0 +1,3 @@
+This is a tsunami evacuation simulation for the city of Onjuku, Japan.  
+It's intention is to show how human decision making and different warning times can effect the rate of casualties during a tsunami event.
+  
